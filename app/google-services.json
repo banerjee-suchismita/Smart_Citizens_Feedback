@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222318559415",
+    "firebase_url": "https://feedback-c355f.firebaseio.com",
+    "project_id": "feedback-c355f",
+    "storage_bucket": "feedback-c355f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222318559415:android:971c4837ed3c3c67c6cd32",
+        "android_client_info": {
+          "package_name": "com.iridescent07.smart_citizens_feedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222318559415-lufm7m81ri7r2023r0plq8on5b562mjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffpvY0DF-yKhfcH2Ox933oHbkiVaOpXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222318559415-lufm7m81ri7r2023r0plq8on5b562mjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
